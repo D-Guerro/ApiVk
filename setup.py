@@ -5,7 +5,7 @@ setup(
     name='ApiVk',
     version='1.0',
     author_email='Guerro.dev@mail.ru',
-    url='',
+    url='https://github.com/D-Guerro/ApiVk/tree/master',
     license='Apache 2.0',
     author='Guerro',
     packages=find_packages(),
